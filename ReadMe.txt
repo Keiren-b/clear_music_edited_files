@@ -18,3 +18,7 @@ Bï¿½renreiter chamber music attribute 3 completed
 Formats:
 Vocal Score (any languages listed should be moved to a different column. They are typically listed in the short description anyway)
  Is playing score (2 copies provided) correct?
+
+BŠrenreiter Attribute 4 format completed
+
+Next start comparing Breitkopf especially format and composer 
