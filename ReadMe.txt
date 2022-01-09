@@ -11,3 +11,10 @@ B�renreiter chamber music attribute 3 updated to 2797
 
 30/12/21
 B�renreiter chamber music attribute 3 completed
+
+
+9/1/22
+
+Formats:
+Vocal Score (any languages listed should be moved to a different column. They are typically listed in the short description anyway)
+ Is playing score (2 copies provided) correct?
