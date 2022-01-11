@@ -22,3 +22,17 @@ Vocal Score (any languages listed should be moved to a different column. They ar
 BŠrenreiter Attribute 4 format completed
 
 Next start comparing Breitkopf especially format and composer 
+
+11/1/22
+
+Unsure what to do with Breitkopf attribute 4 values
+'Soprano'
+'Alto'
+'Tenor'
+'Bass'
+
+Emailed Ian for answer
+
+Basso (Cello/Double Bass) is confusing. They dont seem to return any searches?
+Breitkopf includes 'choral score paperback' as well as just 'choral score' Should we keep that? (BA makes no comment on paperback in relation to choral scores)
+==> No, all choral scores are typically paperback anyway
