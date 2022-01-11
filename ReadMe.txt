@@ -57,4 +57,20 @@ Breitkopf 'Score and Parts Folder" attribute 4 changed to 'Score & Parts'
 
 Breitkopf 'Score and Parts" attribute 4 changed to 'Score & Parts'
 
+Breitkopf 'Score And Parts Paperback' attribute 4 changed to 'Score & Parts'
+
+Breitkopf 'Score With Continuo Realization Paperback' attribute 4 changed to 'Score With Continuo Realization'
+
+Breitkopf 'Set of Parts' attribute 4 changed to 'Parts'
+
+Breitkopf  'Set of Parts Folder' attribute 4 changed to 'Parts'
+
+Breitkopf  'Set of Parts Paperback' attribute 4 changed to 'Parts'
+
+Breitkopf  'Solo Piano' attribute 4 removed
+
+Breitkopf 'Study Score Paperback' attribute 4 changed to 'Study Score'
+
+Breitkopf 'Vocal Score Linen' attribute 4 changed to 'Vocal Score Hardback'
+
 
