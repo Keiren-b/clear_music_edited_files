@@ -36,3 +36,25 @@ Emailed Ian for answer
 Basso (Cello/Double Bass) is confusing. They dont seem to return any searches?
 Breitkopf includes 'choral score paperback' as well as just 'choral score' Should we keep that? (BA makes no comment on paperback in relation to choral scores)
 ==> No, all choral scores are typically paperback anyway
+
+
+Any Breitkopf code with attribute 3 including chamber and attribute 4 'Folder' has been changed to 'Parts'
+
+Breitkopf code with attribute 3 of individual instrument and attribute 4 'Folder' is uncertain. Are they just normal solo instrumental books? Have asked Ian
+
+EB6569 is labeled 'Organ Score Paperback' ... what attribute 4 should it have? Have asked Ian
+
+Breitkopf all 'performance score folder' attribute 4 changed to 'Performance Score'
+
+
+Breitkopf all 'Performance Score Paperback' attribute 4 changed to 'Performance Score'
+
+Breitkopf "piano reduction paperback' attribute 4 changed to 'Piano Reduction'
+
+Breitkopf 'piano score paperback' attribute 4. What format should it have?
+
+Breitkopf 'Score and Parts Folder" attribute 4 changed to 'Score & Parts'
+
+Breitkopf 'Score and Parts" attribute 4 changed to 'Score & Parts'
+
+
