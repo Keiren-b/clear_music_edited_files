@@ -89,3 +89,38 @@ attribute 4 'soprano' 'alto' 'tenor' 'bass' removed
 removed codes with following suffixes -15, -16, -19 and -26 in Breitkopf
 
 Breitkopf needs to have it's chamber music aligned to Barenreiter format. Have started on that today. For reference here is the list of BA options:
+
+Chamber - Brass
+Chamber - Mixed
+Chamber - Mixed, Flute
+Chamber - Mixed, Flute, Violin
+Chamber - Mixed, Oboe, Violin
+Chamber - Mixed, Oboe, Violin,
+Chamber - Mixed, Oboe, Violin, Viola, Flute
+Chamber - Mixed, Violin, Flute
+Chamber - Mixed, Violin, Viola, Flute
+Chamber - Strings
+Chamber - Strings & Piano
+Chamber - Strings & Piano, Piano Quartet
+Chamber - Strings & Piano, Piano Quintet
+Chamber - Strings & Piano, Piano Trio
+Chamber - Strings, String Duo
+Chamber - Strings, String Ensemble
+Chamber - Strings, String Quartet
+Chamber - Strings, String Quintet
+Chamber - Strings, String Trio
+Chamber - Wind
+Chamber - Wind & Strings
+Chamber - Wind & Strings, Chamber - Strings
+Chamber - Wind, String Quartet
+
+
+removed further instrumentation detail from Chamber - Strings, String Duo ie . dont include violin, viola
+any chamber muisic including voice has been redesignated as just 'vocal'
+Vivaldi concertos that are really just chamber works have been redesignated chamber - mixed
+If a baroque 'concerto' contains parts for massed strings then it has been listed as 'orchestral' 
+are concertos just listed as 'orchestral' now???
+
+trio sonata is a MESS - decide tomorrow
+
+duos should be listed where possible as Chamber - Mixed (or whatever), instrument 1, instrument 2
