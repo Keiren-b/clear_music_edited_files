@@ -42,6 +42,7 @@ Any Breitkopf code with attribute 3 including chamber and attribute 4 'Folder' h
 
 Breitkopf code with attribute 3 of individual instrument and attribute 4 'Folder' is uncertain. Are they just normal solo instrumental books? Have asked Ian **??**
 ======> I'm still confused about this
+========> Remove 'folder' and leave blank
 
 EB6569 is labeled 'Organ Score Paperback' ... what attribute 4 should it have? Have asked Ian
 ======>change to as "Organ Score" (ie remove 'paperback')
@@ -65,12 +66,6 @@ Breitkopf 'Score And Parts Paperback' attribute 4 changed to 'Score & Parts'
 Breitkopf 'Score With Continuo Realization Paperback' attribute 4 changed to 'Score With Continuo Realization'
 
 Breitkopf 'Set of Parts' attribute 4 changed to 'Parts'
-=======> see update below 2/2/22
-
-Breitkopf  'Set of Parts Folder' attribute 4 changed to 'Parts'
-=======> see update below 2/2/22
-
-Breitkopf  'Set of Parts Paperback' attribute 4 changed to 'Parts'
 =======> see update below 2/2/22
 
 Breitkopf  'Solo Piano' attribute 4 removed
@@ -119,8 +114,27 @@ removed further instrumentation detail from Chamber - Strings, String Duo ie . d
 any chamber muisic including voice has been redesignated as just 'vocal'
 Vivaldi concertos that are really just chamber works have been redesignated chamber - mixed
 If a baroque 'concerto' contains parts for massed strings then it has been listed as 'orchestral' 
+
 are concertos just listed as 'orchestral' now???
 
 trio sonata is a MESS - decide tomorrow
+====> where possible list as chamber music - (mixed) and then list solo instruments 
 
 duos should be listed where possible as Chamber - Mixed (or whatever), instrument 1, instrument 2
+
+3/2/22
+
+for choral works, every item is listed as choral, with some having further designation at choral and orchestral or a capella. Don't worry about trying to align these. Everything will be found with the umbrella term 'choral'
+
+in barenreiter the following 
+BA2241
+BA2242
+BA2243
+BA2244
+BA2245
+BA2246
+BA2951-22
+are methodical sonatas for either flute or violin. both instruments are listed in attribute 3. these are works for a solo instrument and b.c.  for works that are 2 insturments and b.c. these are technically trio sonatas and should be listed as chamber. 
+
+
+this is the case for many Telemann works. have adjusted all the following
