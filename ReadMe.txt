@@ -118,7 +118,7 @@ If a baroque 'concerto' contains parts for massed strings then it has been liste
 are concertos just listed as 'orchestral' now???
 
 trio sonata is a MESS - decide tomorrow
-====> where possible list as chamber music - (mixed) and then list solo instruments 
+====> where possible list as chamber music - (mixed) and then list solo instruments. Updated Barenreiter and Breitkopf
 
 duos should be listed where possible as Chamber - Mixed (or whatever), instrument 1, instrument 2
 
@@ -137,4 +137,4 @@ BA2951-22
 are methodical sonatas for either flute or violin. both instruments are listed in attribute 3. these are works for a solo instrument and b.c.  for works that are 2 insturments and b.c. these are technically trio sonatas and should be listed as chamber. 
 
 
-this is the case for many Telemann works. have adjusted all the following
+this is the case for many Telemann works. have adjusted all 
