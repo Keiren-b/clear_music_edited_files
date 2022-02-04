@@ -32,6 +32,7 @@ Unsure what to do with Breitkopf attribute 4 values
 'Bass'
 
 Emailed Ian for answer
+=====> remove all
 
 Basso (Cello/Double Bass) is confusing. They dont seem to return any searches?
 Breitkopf includes 'choral score paperback' as well as just 'choral score' Should we keep that? (BA makes no comment on paperback in relation to choral scores)
@@ -138,3 +139,15 @@ are methodical sonatas for either flute or violin. both instruments are listed i
 
 
 this is the case for many Telemann works. have adjusted all 
+
+4/2/22
+
+when doing concerto look at Breitkopf PB15101 and double check how you want to list attribute 3. also EOS882
+should we remove -07 codes from Breitkopf? Have asked Ian
+
+works that are solo instrument and B.C. ahould just be listed as solo instrument in the attribute 3 category 
+this is mostly for baroque works, but includes some breitkopf works where the B.C. has been 'arranged' for piano
+
+
+Breitkopf 'Voices and piano (bc)' changed to vocal
+Breitkopf 'Voice(s) and orchestra' changed to vocal
