@@ -151,3 +151,37 @@ this is mostly for baroque works, but includes some breitkopf works where the B.
 
 Breitkopf 'Voices and piano (bc)' changed to vocal
 Breitkopf 'Voice(s) and orchestra' changed to vocal
+
+15/2/22
+eevry entry in Barenreiter has an instrument listed but many in breitkopf do not. The job now is to list an instrument for every item
+
+Breitkopf BES codes returning no matches in website searchesBES3074
+BES3075
+BES3089
+BES3090
+BES3091
+BES3092
+BES3095
+BES3129
+
+vocal/orchestral works such as 
+DV1076	Das Vorbild			Hanns Eisler
+are to be listed as "Orchestral, Vocal' in instrument category. Choral & Orchestral is something different
+Breitkopf currently lists these as "Voice(s) and orchestra"
+"Complete Works" should be called "Complete Editions" in attritbute 3. Have changed all breitkopf over
+====> scrap this. most are organised into volumes by instrument so label each individually. look at Brahms complete edition for reference
+
+questions for ian sent by email re complete editions:
+
+    Breitkopf: I can’t find information on the instrumentation of these works…are the songs choral pieces? Are the duets piano and another instrument? 
+
+    SON120	Complete Works Vol. 20: Polyphonic Songs with Piano or Organ
+    SON121	Complete Works Vol. 21: Polyphonic Songs without accompaniment
+    SON122	Complete Works Vol. 22: Duets with piano accompaniment
+
+    Breitkopf: So much of the Reger complete edition is out of print. Should we leave it all out?
+in Barenreiter Bach cantatas are listed as choral, choral and orchestral....should we also include things like Schuetz??
+
+Schutz's works are difficult to categorise. I am listing the instruments at "Choral, Choral and Orchestra, Vocal" since they are so often a mix of solo voices with b.c. choral movements, choral mvts with insturments etc. This should cover most 
+
+Pick up - breitkopf complete editions
