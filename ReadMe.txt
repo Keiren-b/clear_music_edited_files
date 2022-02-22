@@ -185,3 +185,5 @@ in Barenreiter Bach cantatas are listed as choral, choral and orchestral....shou
 Schutz's works are difficult to categorise. I am listing the instruments at "Choral, Choral and Orchestra, Vocal" since they are so often a mix of solo voices with b.c. choral movements, choral mvts with insturments etc. This should cover most 
 
 Pick up - breitkopf complete editions
+
+22/2/22
