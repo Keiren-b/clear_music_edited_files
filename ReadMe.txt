@@ -176,8 +176,11 @@ questions for ian sent by email re complete editions:
     Breitkopf: I can’t find information on the instrumentation of these works…are the songs choral pieces? Are the duets piano and another instrument? 
 
     SON120	Complete Works Vol. 20: Polyphonic Songs with Piano or Organ
+    ===> Ian answers "choral"
     SON121	Complete Works Vol. 21: Polyphonic Songs without accompaniment
+    ===> Ian answers "choral"
     SON122	Complete Works Vol. 22: Duets with piano accompaniment
+    ===> Ian answers "vocal"
 
     Breitkopf: So much of the Reger complete edition is out of print. Should we leave it all out?
 in Barenreiter Bach cantatas are listed as choral, choral and orchestral....should we also include things like Schuetz??
@@ -187,3 +190,11 @@ Schutz's works are difficult to categorise. I am listing the instruments at "Cho
 Pick up - breitkopf complete editions
 
 22/2/22
+
+What is SON271? ===> have asked ian. 
+    ===> He Says to Omit
+
+What is SON385 etc ===> have asked ian. 
+
+
+Column H 'Tags' ...should that be a combo of composer and instrument? If so I need to go back and do a proper concatenation of that
