@@ -183,6 +183,7 @@ questions for ian sent by email re complete editions:
     ===> Ian answers "vocal"
 
     Breitkopf: So much of the Reger complete edition is out of print. Should we leave it all out?
+    ===> Ian answers no, it should be included
 in Barenreiter Bach cantatas are listed as choral, choral and orchestral....should we also include things like Schuetz??
 
 Schutz's works are difficult to categorise. I am listing the instruments at "Choral, Choral and Orchestra, Vocal" since they are so often a mix of solo voices with b.c. choral movements, choral mvts with insturments etc. This should cover most 
@@ -195,6 +196,11 @@ What is SON271? ===> have asked ian.
     ===> He Says to Omit
 
 What is SON385 etc ===> have asked ian. 
+===> various works comiled in a handwriten manucsript by Jodocus Schalreuter
 
 
 Column H 'Tags' ...should that be a combo of composer and instrument? If so I need to go back and do a proper concatenation of that
+
+7/3/22
+Breitkopf Complete Editions completed
+Now working on concertos ===> All attribute 3 for concerto works should be "orchestral" Let's test the search function with this and change if needed
