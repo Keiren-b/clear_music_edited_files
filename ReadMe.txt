@@ -117,6 +117,7 @@ Vivaldi concertos that are really just chamber works have been redesignated cham
 If a baroque 'concerto' contains parts for massed strings then it has been listed as 'orchestral' 
 
 are concertos just listed as 'orchestral' now???
+====> Yes
 
 trio sonata is a MESS - decide tomorrow
 ====> where possible list as chamber music - (mixed) and then list solo instruments. Updated Barenreiter and Breitkopf
@@ -153,7 +154,7 @@ Breitkopf 'Voices and piano (bc)' changed to vocal
 Breitkopf 'Voice(s) and orchestra' changed to vocal
 
 15/2/22
-eevry entry in Barenreiter has an instrument listed but many in breitkopf do not. The job now is to list an instrument for every item
+every entry in Barenreiter has an instrument listed but many in breitkopf do not. The job now is to list an instrument for every item
 
 Breitkopf BES codes returning no matches in website searchesBES3074
 BES3075
@@ -211,5 +212,8 @@ One thing to test in search function is finding "concerto like" pieces such as n
 Piano Four Hands and Six Hands Attribute 3 just changed to 'Piano'
 
 Now going back to fix Column H 'Tags' which should be a combo of composer and instrument. When updating, create new blank column. Fill with The Excel formula for this " =IF(O2="",S2,IF(S2="",O2,CONCATENATE(O2,", ",S2))) " then copy values into Tags column
+This will have to be constantly updated as changes are made to the file 
 
 If there are various composers it should be listed as "Various Composers" not just "various"
+
+Should all BV codes be removed? Have asked Ian
