@@ -203,4 +203,13 @@ Column H 'Tags' ...should that be a combo of composer and instrument? If so I ne
 
 7/3/22
 Breitkopf Complete Editions completed
+
 Now working on concertos ===> All attribute 3 for concerto works should be "orchestral" Let's test the search function with this and change if needed
+
+One thing to test in search function is finding "concerto like" pieces such as nights in the garden of spain. 
+
+Piano Four Hands and Six Hands Attribute 3 just changed to 'Piano'
+
+Now going back to fix Column H 'Tags' which should be a combo of composer and instrument. When updating, create new blank column. Fill with The Excel formula for this " =IF(O2="",S2,IF(S2="",O2,CONCATENATE(O2,", ",S2))) " then copy values into Tags column
+
+If there are various composers it should be listed as "Various Composers" not just "various"
