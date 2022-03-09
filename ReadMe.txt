@@ -217,3 +217,54 @@ This will have to be constantly updated as changes are made to the file
 If there are various composers it should be listed as "Various Composers" not just "various"
 
 Should all BV codes be removed? Have asked Ian
+
+BES codes are appearing on the Breitkopf website. Have asked Ian what we should do
+
+Now working through all breitkopf titles with no instrument listed 
+
+What are ChB####-## codes? Have asked Ian
+
+Some DLV codes are digital downloads so they are all removed
+
+
+According to Ian's email of 20 May 2020 the following codes with asterixes should be removed from Breitkopf
+**BDV
+BES
+BG
+**BHM
+BV
+ChB
+DLV
+DV
+EB
+EBL
+ED
+**EOS (BUT‚Ä¶include score, study score, score with cont.real.)
+ETP
+KM
+KML
+LCE
+MN
+MR
+**OB
+OFB
+PB
+PBL
+SMV
+SON
+**Z
+
+currently working on blank instruments
+
+Concertos should be as per this email
+
+Currently displayed in two different instrumentation formats
+
+BA: orchestral
+Bk: solo instrument
+
+I suggest we list all in the following way
+
+Instrumentation: Orchestral, concerto, solo instrument
+
+(Everything separated by a comma is a searchable term. So for instance if I search “violin” with the above suggested change to the instrumentation format, it will return results for solo violin works and also violin concertos. I can then sort in the columns on the left “concertos” to show only violin concertos).
