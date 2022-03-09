@@ -1,5 +1,10 @@
 This file catalogues the progress of Clear Music's new website
 
+Github repositories for Jamie's work are found here 
+https://github.com/jamesoberg/Clearmusic-Publisher-Databases
+https://github.com/jamesoberg/ClearMusic
+https://github.com/jamesoberg/ClearMusic-Barenreiter-Catalogue
+
 29/12/21
 
 The files to be edited on Keiren's local machine are in:
@@ -229,11 +234,13 @@ Some DLV codes are digital downloads so they are all removed
 
 According to Ian's email of 20 May 2020 the following codes with asterixes should be removed from Breitkopf
 **BDV
-BES
-BG
+**BES
+**BG
 **BHM
-BV
-ChB
+**BV
+ChB (no sufix)
+**ChB (with suffix except for -00)
+ChB (with -00 suffix ==> remove the suffix??==> NO)
 DLV
 DV
 EB
@@ -267,4 +274,38 @@ I suggest we list all in the following way
 
 Instrumentation: Orchestral, concerto, solo instrument
 
-(Everything separated by a comma is a searchable term. So for instance if I search ÒviolinÓ with the above suggested change to the instrumentation format, it will return results for solo violin works and also violin concertos. I can then sort in the columns on the left ÒconcertosÓ to show only violin concertos).
+(Everything separated by a comma is a searchable term. So for instance if I search ï¿½violinï¿½ with the above suggested change to the instrumentation format, it will return results for solo violin works and also violin concertos. I can then sort in the columns on the left ï¿½concertosï¿½ to show only violin concertos).
+
+** BIG ISSUE **
+on the breitkopf website they don't use suffixes to desginate different formats and it seems in our excel file they are used inconsistantly.
+see https://www.breitkopf.com/work/9129/le-quattro-stagioni-the-four-seasons-op-8-2-rv-315 for reference
+==> confusion has been sorted. DO NOT rely on the breitkopf website to crosscheck. Their search funtion will not work with suffix codes.
+See this email response for further info: /Users/keirenbrandt-sawdy/Documents/GitHub/Clearmusic-Publisher-Databases/Edited Files 28.07.21/breitkopf_email_09_03_2022.txt
+
+Remove the following suffix codes from Breitkopf
+-53
+-81
+-85
+-88
+-91
+-94
+
+-15
+-16
+-19
+-20
+-21
+-26
+
+Keep the following suffixes
+-01
+-02
+-07
+-14
+
+Have asked Ian about the following suffixes 
+-23
+-27
+
+Have now removed codes that need to be removed from breitkopf according to the above list
+At some stage I will need to review the items with suffixes 01, 02, 07 and 14 that are marked for removal. That may have been an issue searching the breitkopf website

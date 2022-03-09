@@ -1,0 +1,42 @@
+Hi Ho
+
+I replied to your email before in regards to suffixes. I thought a great number of these would cause a problem. The issue is on the Breitkopf website if you search for something with a suffix it often won’t show up at all. Eg PB15120-07
+
+My confusion then was that I was using the Breitkopf website to cross check a lot of these things which were suddenly not appearing. I wondered whether the file supplied by Breitkopf was wrong. In face the file is fine it’s the search function on Breitkopf that is stupid.
+
+The website has no suffix codes to study score for example, or choral score. I simply has the root code (such as PB15120 above) and instead of a suffix it just says beside it “study score” “choral score” etc. 
+
+My issue was I thought this would affect the ability of our website to get the correct images. Ie if we start messing around with the codes too much it might being up the image of a full score cover when in fact the title being looked as was a study score, or something similar. I was wrong, our website uses separate URLs supplied by Breitkopf and it appears everything lines up. 
+
+There is one issue though, any customer looking at our website will see a code with a suffix in SKU. If THEY want to cross check with the Breitkopf website they are going to have problems. I don’t know how to solve this or if we need to. One simple solution would be on all Breitkopf items to include a little note saying “if you are crosschecking on the Breitkopf website, do not search with the suffix” - minor problem I think
+
+As for us. So far I see that we are removing codes with the following suffixes because they are instrumental parts
+
+-53
+-81
+-85
+-88
+-91
+-94
+
+-15
+-16
+-19
+-20
+-21
+-26
+
+We are keeping
+-01
+-02
+-07
+-14
+
+There are some rogues. What about the following (we may have discussed this already. Sorry if we have. Trying to get a consistent list of suffix codes to vanquish! 
+
+-23
+-27
+
+I don’t know if there’s a list somewhere of all the suffix codes and what they mean? 
+
+In summary here, I won’t rely on the Breitkopf website anymore for cross reference. I’ll check things in the original catalogue file they have provided and will use that. Sorry for such a longwinded email, so many moving parts here!
