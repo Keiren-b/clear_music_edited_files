@@ -119,6 +119,7 @@ Chamber - Wind, String Quartet
 removed further instrumentation detail from Chamber - Strings, String Duo ie . dont include violin, viola
 any chamber muisic including voice has been redesignated as just 'vocal'
 Vivaldi concertos that are really just chamber works have been redesignated chamber - mixed
+===> This needs to change given the adoption of Orchestral, Concerto, (solo instrument) designation for concertos
 If a baroque 'concerto' contains parts for massed strings then it has been listed as 'orchestral' 
 
 are concertos just listed as 'orchestral' now???
