@@ -119,11 +119,10 @@ Chamber - Wind, String Quartet
 removed further instrumentation detail from Chamber - Strings, String Duo ie . dont include violin, viola
 any chamber muisic including voice has been redesignated as just 'vocal'
 Vivaldi concertos that are really just chamber works have been redesignated chamber - mixed
-===> This needs to change given the adoption of Orchestral, Concerto, (solo instrument) designation for concertos
-If a baroque 'concerto' contains parts for massed strings then it has been listed as 'orchestral' 
+===> This needs to change given the adoption of Orchestral, Concerto, (solo instrument) designation for concertos. If there is a clear solo instrument it is concerto. if there is not (eg MR1143 in breitkopf) then it should be chamber - mixed
 
-are concertos just listed as 'orchestral' now???
-====> Yes
+
+
 
 trio sonata is a MESS - decide tomorrow
 ====> where possible list as chamber music - (mixed) and then list solo instruments. Updated Barenreiter and Breitkopf
@@ -211,7 +210,6 @@ Column H 'Tags' ...should that be a combo of composer and instrument? If so I ne
 7/3/22
 Breitkopf Complete Editions completed
 
-Now working on concertos ===> All attribute 3 for concerto works should be "orchestral" Let's test the search function with this and change if needed
 
 One thing to test in search function is finding "concerto like" pieces such as nights in the garden of spain. 
 
@@ -223,12 +221,15 @@ This will have to be constantly updated as changes are made to the file
 If there are various composers it should be listed as "Various Composers" not just "various"
 
 Should all BV codes be removed? Have asked Ian
-
-BES codes are appearing on the Breitkopf website. Have asked Ian what we should do
+    ==> Yes,see list below
+BES codes are appearing on the Breitkopf website. Have asked Ian what we should do  
+    ==>all should be removed
 
 Now working through all breitkopf titles with no instrument listed 
+==>complete
 
 What are ChB####-## codes? Have asked Ian
+==>keep only these ChB codes with no suffix, or the suffix -00
 
 Some DLV codes are digital downloads so they are all removed
 
@@ -263,6 +264,7 @@ SON
 **Z
 
 currently working on blank instruments
+==Complete
 
 Concertos should be as per this email
 
@@ -296,7 +298,9 @@ Remove the following suffix codes from Breitkopf
 -19
 -20
 -21
+-23
 -26
+-27
 
 Keep the following suffixes
 -01
@@ -304,9 +308,13 @@ Keep the following suffixes
 -07
 -14
 
-Have asked Ian about the following suffixes 
--23
--27
+
+
 
 Have now removed codes that need to be removed from breitkopf according to the above list
 At some stage I will need to review the items with suffixes 01, 02, 07 and 14 that are marked for removal. That may have been an issue searching the breitkopf website
+
+Have now fixed up all breitkopf concertos except for concerto works that don't have "concerto" in the title. I'll have to find those individually.
+
+15/3/22
+DV4252 is out of print and is removed
