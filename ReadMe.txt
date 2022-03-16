@@ -318,3 +318,6 @@ Have now fixed up all breitkopf concertos except for concerto works that don't h
 
 15/3/22
 DV4252 is out of print and is removed
+Breitkopf instrumentation completed
+Now fixing Barenreiter concerto
+==>Complete
