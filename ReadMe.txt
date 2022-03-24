@@ -325,3 +325,9 @@ Now fixing Barenreiter concerto
 24/3/22
 Ian has confirmed that all breitkopf MR codes and MN codes need to stay. Now working on aligning these
 ==> many have been designated as "book" in the instrumental category 
+
+Barenreiter and Breitkopf appear to be complete
+
+Now looking at existing website work and seeing what needs to be done
+Ajax serach will need to be renewed 
+Website will need a privacy policy and terms and conditions
