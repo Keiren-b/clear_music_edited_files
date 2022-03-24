@@ -321,3 +321,7 @@ DV4252 is out of print and is removed
 Breitkopf instrumentation completed
 Now fixing Barenreiter concerto
 ==>Complete
+
+24/3/22
+Ian has confirmed that all breitkopf MR codes and MN codes need to stay. Now working on aligning these
+==> many have been designated as "book" in the instrumental category 
