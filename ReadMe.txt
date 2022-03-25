@@ -214,6 +214,7 @@ Breitkopf Complete Editions completed
 One thing to test in search function is finding "concerto like" pieces such as nights in the garden of spain. 
 
 Piano Four Hands and Six Hands Attribute 3 just changed to 'Piano'
+===>Is this right??
 
 Now going back to fix Column H 'Tags' which should be a combo of composer and instrument. When updating, create new blank column. Fill with The Excel formula for this " =IF(O2="",S2,IF(S2="",O2,CONCATENATE(O2,", ",S2))) " then copy values into Tags column
 This will have to be constantly updated as changes are made to the file 
