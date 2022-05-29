@@ -332,3 +332,31 @@ Barenreiter and Breitkopf appear to be complete
 Now looking at existing website work and seeing what needs to be done
 Ajax serach will need to be renewed 
 Website will need a privacy policy and terms and conditions
+
+16/4/22
+Starting on Helne file. To do:
+
+*Chamber Music (complete)
+*Concertos
+
+Unsure what these Attribute 3's are in the Henle catalogue
+HN3000
+HN3001
+HN3002
+HN3003
+HN3004
+HN3005
+HN3006
+
+Also emailed about these
+HN311
+HN309
+HN310
+HN312
+HN313
+HN5182 - is this the sinfonia concertante?
+
+Henle needs attribute 4 values changed so it dosn't include hardback etc when not neccessary
+Check attribute 3 fo pieces that are xxx or (yyy, zzz)
+
+What are we going to do with piano four hands??
