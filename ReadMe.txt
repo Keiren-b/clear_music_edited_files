@@ -337,7 +337,7 @@ Website will need a privacy policy and terms and conditions
 Starting on Helne file. To do:
 
 *Chamber Music (complete)
-*Concertos
+*Concertos (complete)
 
 Unsure what these Attribute 3's are in the Henle catalogue
 HN3000
@@ -347,6 +347,7 @@ HN3003
 HN3004
 HN3005
 HN3006
+==> listed as "Complete Editions"
 
 Also emailed about these
 HN311
@@ -360,3 +361,19 @@ Henle needs attribute 4 values changed so it dosn't include hardback etc when no
 Check attribute 3 fo pieces that are xxx or (yyy, zzz)
 
 What are we going to do with piano four hands??
+
+Emailed Ian about the following. They appear to be individual parts to chamber music pieces. The question is whetehr to include them or not since i'm not sure if there is a set of parts available or if they have to all be purchased separately
+
+Henle Column 4 Attribute 4 value(s) - There are two important things I have changed. A lot of full scores are called either Score with Critical Report (Complete Edition) clothbound or Score with Critical Report (Complete Edition) paperbound. We have not included a 'comlete edition' designation in COlumn v. That has belonged in instrument category previously. These ones in Henle have been changed to Full Score Hardback or Full Score Paperback respectively 
+
+Now starting on ABRSM
+
+These titles seem strange? On the ABRSM website they have different SKU numbers
+SKU	Name
+9781860961922	Performer's Guide to Music of Baroque Period
+9781860961946	Performer's Guide to Music of Romantic Period
+
+also these?
+SKU	Name
+9781854727534	ABRSM AURAL TRAINING IN PRACTICE BK 2 GR 4-5
+9781860960000	ABRSM AURAL TRAINING IN PRACTICE BK 1 GR 1-3 2CDS
