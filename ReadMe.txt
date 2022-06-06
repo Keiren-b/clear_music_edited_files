@@ -363,6 +363,50 @@ Check attribute 3 fo pieces that are xxx or (yyy, zzz)
 What are we going to do with piano four hands??
 
 Emailed Ian about the following. They appear to be individual parts to chamber music pieces. The question is whetehr to include them or not since i'm not sure if there is a set of parts available or if they have to all be purchased separately
+==> Ian's reply below
+
+        Howdy Howdy ta for this – yes I agree it’s a tricky one.
+        I would suggest we KEEP them all in – it’s such a small list, it’s probably worth keeping as Henle do so very few extra/separate parts.
+        I’ve added a few details below – Henle are not consistent with regard to what goes in the main item unit for some of these, so if we include some, and exclude others, it could be confusing.
+        
+        HN1006
+        HN1007
+        HN1008
+        HN1009
+        (HN1005 is score only)
+        
+        HN309
+        HN310
+        HN311
+        (HN188 is score plus one of each string part)
+        
+        HN312
+        HN313
+        HN314
+        (HN202 is score only)
+        
+        HN315
+        (HN987 is clarinet version piano score plus part)
+        
+        HN316
+        (HN988 is viola version piano score plus part)
+        
+        HN468
+        (This is the Reger suites for solo viola and there is nothing else)
+        
+        HN690
+        HN691
+        HN692
+        HN693
+        (HN683 is score plus one of each part)
+        
+        HN733
+        HN734
+        HN735
+        HN736
+        (HN682 is score plus one of each part)
+
+        *** Because of this, i've introduced a new attribute 4 called "part" for these individual parts. The instrument listed is the individual instrument the part is for i.e. 'violin' instead of 'chamber - strings'.
 
 Henle Column 4 Attribute 4 value(s) - There are two important things I have changed. A lot of full scores are called either Score with Critical Report (Complete Edition) clothbound or Score with Critical Report (Complete Edition) paperbound. We have not included a 'comlete edition' designation in COlumn v. That has belonged in instrument category previously. These ones in Henle have been changed to Full Score Hardback or Full Score Paperback respectively 
 
@@ -377,3 +421,8 @@ also these?
 SKU	Name
 9781854727534	ABRSM AURAL TRAINING IN PRACTICE BK 2 GR 4-5
 9781860960000	ABRSM AURAL TRAINING IN PRACTICE BK 1 GR 1-3 2CDS
+
+==>it seems that these have been removed and replaced with newer versions. I've asked Ian for an updated database file and will wait until i receive that to continue working on ABRSM
+
+
+I will continue on to AMEB while I wait for new ABRSM files
